@@ -5,6 +5,14 @@ from tkJSONloader import TK_JSON
 from helpExport import TMExportHelper
 import json
 
+"""
+material replacement main GUI python script
+Author: Seunghyeon (Hyeon) Kim
+Description: This file contains the required GUI for the app. It unites all the utilities from
+the other python file and offers functionality.
+Date: Oct. 3 2024
+"""
+
 DEFAULT_FONT = 10
 
 class CSVGUI:
