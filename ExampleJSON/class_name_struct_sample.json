@@ -1,0 +1,16 @@
+{
+    "<material class in ArchiCAD>": {
+        "<material_name in class>" : {
+            "material_name" : "<TwinMotion Material name>",
+            "additional_inputs" : []
+        }
+    },
+    "Brick" : {
+        "Soldier Bond" : {
+            "material_name" : "Clean brick 06",
+            "additional_inputs":[
+                "[Rotation 90.0]"
+            ]
+        }
+    }
+}

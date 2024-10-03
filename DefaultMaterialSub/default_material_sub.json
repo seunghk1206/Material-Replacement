@@ -1,0 +1,423 @@
+{
+    "Brick" : {
+        "Aged Natural" : {
+            "material_name": "Dirty brick 01"
+        },
+        "Brown" : {
+            "material_name": "Clean brick 04"
+        },
+        "Common Bond" : {
+            "material_name": "Rough brick 03"
+        },
+        "Flemish Bond" : {
+            "material_name": "Clean brick 05"
+        },
+        "Red" : {
+            "material_name": "Clean brick 04"
+        },
+        "Running Bond" : {
+            "material_name": "Round brick 02"
+        },
+        "Soldier Bond" : {
+            "material_name" : "Clean brick 06",
+            "additional_inputs":[
+                "[Rotation 90.0]"
+            ]
+        },
+        "Stack Bond" : {
+            "material_name" : "Clean brick 06"
+        }
+    },
+    "Concrete" : {
+        "02" : {
+            "material_name" : "Poured concrete 03",
+            "additional_inputs" : [
+                "[AssymetricScale 0.1 0.2]"
+            ]
+        },
+        "04" : {
+            "material_name" : "Poured concrete 02",
+            "additional_inputs" : [
+                "[Rotation 90.0]"
+            ]
+        },
+        "10" : {
+            "material_name" : "Rough brick 03",
+            "additional_inputs" : [
+                "[TintColor 223 223 223]", 
+                "[ColorMapSaturation 0.0]", 
+                "[AssymetricScale 1.5 0.50]"
+            ]
+        }
+    },
+    "Ceramic" : {
+        "Porcelain" : {
+            "material_name" : "White Marble 01 A"
+        }
+    },
+    "Ceiling" : {
+        "Tile 60x60" : {
+            "material_name" : "MF 60x60"
+        },
+        "Tile 60x120" : {
+            "material_name" : "MF 60x120"
+        }
+    },
+    "Textile" : {
+        "01" : {
+            "material_name" : "Rough paper 01",
+            "additional_inputs" : [
+                "[TintColor 255 236 233]"
+            ]
+        },
+        "02" : {
+            "material_name" : "Fabric wool stripe 01",
+            "additional_inputs" : [
+                "[AssymetricScale 0.1 0.5]"
+            ]
+        }
+    },
+    "Carpet" : {
+        "01" : {
+            "material_name" : "Carpet wool laos 01",
+            "additional_inputs" : [
+                "[TintColor 135 156 200]"
+            ]
+        },
+        "02" : {
+            "material_name" : "Carpet wool laos 01",
+            "additional_inputs" : 
+            [
+                "[TintColor 153 159 135]"
+            ]
+        },
+        "03" : {
+            "material_name" : "Carpet wool laos 01",
+            "additional_inputs" : 
+            [
+                "[TintColor 228 208 212]"
+            ]
+        }
+    },
+    "Lino" : {
+        "Blue" : {
+            "material_name" : "Classic linoleum",
+            "additional_inputs" : [
+                "[TintColor 107 131 248]",
+                "[Roughness 1.0]"
+            ]
+        },
+        "Checkered" : {
+            "material_name" : "Checker linoleum",
+            "additional_inputs" : [
+                "[TintColor 239 207 131]"
+            ]
+        },
+        "Gray" : {
+            "material_name" : "Classic linoleum",
+            "additional_inputs" : [
+                "[TintColor 117 122 114]",
+                "[Roughness 1.0]"
+            ]
+        }
+    },
+    "Floorboards" : {
+        "01" : {
+            "material_name": "Mult 01 D",
+            "additional_inputs" : [
+                "[TintColor 153 115 81]"
+            ]
+        },
+        "03" : {
+            "material_name" : "Maple 01 A",
+            "additional_inputs" : [
+                "[AssymetricScale 0.67 1.0]",
+                "[TintColor 255 240 198]"
+            ]
+        }
+    },
+    "Parquet" : {
+        "01" : {
+            "material_name" : "Oak 01 E",
+            "additional_inputs" : [
+                "[Scale 2.25]"
+            ]
+        },
+        "02" : {
+            "material_name" : "Wenge 01 B",
+            "additional_inputs" : [
+                "[TintColor 214 137 102]"
+            ]
+        }
+    },
+    "Glass" : {
+        "Blue" : {
+            "material_name" : "Clear glass blue"
+        },
+        "Clear Fast" : {
+            "material_name" : "Reflective glass"
+        },
+        "Lamp" : {
+            "material_name" : "Item glass"
+        },
+        "Mirror" : {
+            "material_name" : "Mirror"
+        },
+        "Satin" : {
+            "material_name" : "Frosted glass",
+            "additional_inputs" : [
+                "[TintColor 182 182 182]"
+            ]
+        }
+    },
+    "Insulation" : {
+        "Bubble Wrap" : {
+            "material_name" : "Bubble Wrap"
+        },
+        "Cellulose" : {
+            "material_name" : "Woodchips 2"
+        },
+        "Fiberglass" : {
+            "material_name" : "Fiberglass"
+        },
+        "Solid Brown" : {
+            "material_name" : "Concrete tiles 4",
+            "additional_inputs" : [
+                "[TintColor 104 94 84]"
+            ]
+        }
+    },
+    "Bark" : {
+        "Deciduous" : {
+            "material_name" : "Tree bark 01"
+        }
+    },
+    "Earth" : {
+        "Brown" : {
+            "material_name" : "Forest ground 3"
+        }
+    },
+    "Grass" : {
+        "Brown" : {
+            "material_name" : "Grass 5"
+        },
+        "Green" : {
+            "material_name" : "Grass 1"
+        }
+    },
+    "Water" : {
+        "Pond" : {
+            "material_name" : "Lake 01"
+        },
+        "Wavy" : {
+            "material_name" : "Sea 02"
+        }
+    },
+    "Metal" : {
+        "Aluminium" : {
+            "material_name" : "Brushed aluminium 01"
+        },
+        "Brass" : {
+            "material_name" : "Brass"
+        },
+        "Bronze" : {
+            "material_name" : "Bronze"
+        },
+        "Chrome 01" : {
+            "material_name" : "Chrome"
+        },
+        "Copper Aged" : {
+            "material_name" : "Slightly worn copper"
+        },
+        "Copper New" : {
+            "material_name" : "Copper"
+        },
+        "Fence Chainlink" : {
+            "material_name" : "Grid 03"
+        },
+        "Gold" : {
+            "material_name" : "Gold"
+        },
+        "Iron" : {
+            "material_name" : "Brushed 01"
+        },
+        "Nickel" : {
+            "material_name" : "Brushed 01",
+            "additional_inputs" : [
+                "[TintColor 194 194 194]"
+            ]
+        },
+        "Perforated Dots" : {
+            "material_name" : "Perforated Dots 01"
+        },
+        "Stainless Steel" : {
+            "material_name" : "Brushed 01",
+            "additional_inputs" : [
+                "[TintColor 89 89 89]"
+            ]
+        },
+        "Steel" : {
+            "material_name" : "Brushed 01"
+        },
+        "Zinc" : {
+            "material_name" : "Brushed 02"
+        }
+    },
+    "Pavement" : {
+        "Asphalt Dark" : {
+            "material_name" : "Asphalt 1"
+        },
+        "Asphalt Light" : {
+            "material_name" : "Asphalt 5"
+        },
+        "Brick Moss" : {
+            "material_name" : "Grassy cobblestone"
+        }
+    },
+    "Roof" : {
+        "Asphalt Shingle Brown" : {
+            "material_name" : "Roof covering 10",
+            "additional_inputs" : [
+                "[TintColor 255 232 214]"
+            ]
+        },
+        "Asphalt Shingle Gray" : {
+            "material_name" : "Roof covering 10",
+            "additional_inputs" : [
+                "[TintColor 180 175 177]"
+            ]
+        },
+        "Asphalt Shingle Green" : {
+            "material_name" : "Roof covering 10",
+            "additional_inputs" : [
+                "[TintColor 215 227 185]"
+            ]
+        },
+        "Asphalt Shingle Drop" : {
+            "material_name" : "Roof covering 06",
+            "additional_inputs" : [
+                "[TintColor 147 255 194]"
+            ]
+        },
+        "Asphalt Cedar Shingle Light" : {
+            "material_name" : "Roof covering 08",
+            "additional_inputs" : [
+                "[TintColor 255 244 219]"
+            ]
+        },
+        "Corrugated Sheet Matte" : {
+            "material_name" : "Roof covering 12"
+        },
+        "Dutch" : {
+            "material_name" : "Roof covering 11"
+        },
+        "French Brown" : {
+            "material_name" : "Roof covering 22",
+            "additional_inputs" : [
+                "[TintColor 100 59 0]"
+            ]
+        },
+        "French Red" : {
+            "material_name" : "Roof covering 22"
+        },
+        "Spanish 01" : {
+            "material_name" : "Roof covering 20"
+        }
+    },
+    "Stone" : {
+        "Granite Gray" : {
+            "material_name" : "Granite stone",
+            "additional_inputs" : [
+                "[TintColor 214 214 214]"
+            ]
+        },
+        "Granite Red" : {
+            "material_name" : "Granite stone",
+            "additional_inputs" : [
+                "[TintColor 255 187 176]"
+            ]
+        },
+        "Limestone Fine" : {
+            "material_name" : "Beige limestone"
+        },
+        "Marble Black" : {
+            "material_name" : "White Marble 02 A",
+            "additional_inputs" : [
+                "[TintColor 51 51 51]"
+            ]
+        },
+        "Marble Carrara White" : {
+            "material_name" : "White Marble 02 A"
+        },
+        "Marble Pink" : {
+            "material_name" : "Pink Marble 01 A"
+        },
+        "Sandstone 01" : {
+            "material_name" : "Yellow sandstone"
+        }
+    },
+    "Stonework" : {
+        "02" : {
+            "material_name" : "Stone 02",
+            "additional_inputs" : [
+                "[TintColor 255 237 191]"
+            ]
+        },
+        "12" : {
+            "material_name" : "Stone wall 3",
+            "additional_inputs" : [
+                "[TintColor 205 224 255]"
+            ]
+        },
+        "13" : {
+            "material_name" : "Stone wall 2"
+        }
+    },
+    "Plastic" : {
+        "Laminate" : {
+            "material_name" : "Glossy plastic",
+            "additional_inputs" : [
+                "[TintColor 255 236 174]"
+            ]
+        }
+    },
+    "Wood" : {
+        "Mahogany Horizontal" : {
+            "material_name" : "Mahogany 01 D"
+        },
+        "Mahogany Vertical" : {
+            "material_name" : "Mahogany 01 D",
+            "additional_inputs" : [
+                "[Rotation 90.0]"
+            ]
+        },
+        "Oak Light" : {
+            "material_name" : "Oak 03 G",
+            "additional_inputs" : [
+                "[TintColor 240 232 212]"
+            ]
+        },
+        "Pine Grained Horizontal" : {
+            "material_name" : "Plywood 02"
+        },
+        "Pine Grained Vertical" : {
+            "material_name" : "Plywood 02",
+            "additional_inputs" : [
+                "[Rotation 90.0]"
+            ]
+        },
+        "Walnut Horizontal" : {
+            "material_name" : "Chestnut 01 A",
+            "additional_inputs" : [
+                "[TintColor 204 173 133]"
+            ]
+        },
+        "Walnut Vertical" : {
+            "material_name" : "Chestnut 01 A",
+            "additional_inputs" : [
+                "[TintColor 204 173 133]",
+                "[Rotation 90.0]"
+            ]
+        }
+    }
+}
