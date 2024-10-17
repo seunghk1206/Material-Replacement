@@ -23,3 +23,4 @@ The results will be saved in the desired directory saved within one instance of 
  * Whenever there is a FATAL ERROR, then it indicates that the required image files or sample files are missing, so please check the location of the default files and change the directory accordingly. If this does not work, reinstalling the application may help.
  * Moving around the executable bin file is not normally tolerated without manual directory change. However, creating a shortcut widget is tolerated without changing the working directory manually.
  * To save the manually set directories and inputs, please press the "save default settings" button.
+ * Any additional help needed? Please refer to the "Help" section in the application.
