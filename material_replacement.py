@@ -27,6 +27,7 @@ class CSVGUI:
         try:
             settings = open("./settings.json")
             settingsJson = json.load(settings)
+        # When unable to load previously saved settings, use factory defaults.
         except FileNotFoundError:
             self.indicator = 1
             print("settings.json not found. Loading default settings.")
